@@ -7,11 +7,11 @@ export const kos = {
   title: "Kos Teduh | Sewa Kos Nyaman dengan Harga Jelas",
   description:
     "Sewa kamar kos bersih dengan Wi-Fi, listrik, dan air sudah termasuk. Hitung biaya sewa sendiri dan pesan langsung lewat WhatsApp.",
-  url: "https://namadomainkamu.com",
-  address: "[Alamat lengkap kos, kota]",
-  mapsUrl: "https://maps.google.com/?q=alamat+kos+kamu",
-  whatsapp: "6281231973100", // format internasional tanpa + atau 0 di depan
-  instagram: "https://instagram.com/akunkamu",
+  url: "https://syahwa-wahyu.vercel.app/",
+  address: "[Sukun, Malang]",
+  mapsUrl: "https://www.google.com/maps/place/Tk.+Hanifah+2/@-7.9911805,112.629082,19.77z/data=!4m6!3m5!1s0x2dd6281adc9d6181:0xbf6ee2fc3313fd1!8m2!3d-7.9911666!4d112.6294249!16s%2Fg%2F11y1cyg32q?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+  whatsapp: "6281231973100", 
+  instagram: "https://www.instagram.com/syahwe33/",
   responseTime: "Dibalas dalam 1 jam, pukul 08.00 sampai 21.00",
 };
 
@@ -78,10 +78,10 @@ export const facilities = [
 ];
 
 export const nearby = [
-  { place: "[Nama kampus atau kantor]", distance: "5 menit berjalan kaki" },
-  { place: "[Minimarket / warung makan]", distance: "2 menit berjalan kaki" },
-  { place: "[Halte atau stasiun terdekat]", distance: "10 menit berkendara" },
-  { place: "[Rumah sakit / klinik]", distance: "8 menit berkendara" },
+  { place: "Kampus 2 Institut Teknologi Sains dan Kesehatan (ITSK) RS dr Soepraoen Malang.", distance: "6 menit berkendara" },
+  { place: "Point Coffee", distance: "1 menit berkendara" },
+  { place: "Stasiun kotalama", distance: "3 menit berkendara" },
+  { place: "RSI Aisyiyah Malang", distance: "8 menit dengan jalan kaki" },
 ];
 
 export const steps = [
@@ -94,19 +94,19 @@ export const steps = [
 // CATATAN: ganti testimoni di bawah dengan testimoni penghuni asli sebelum situs dipublikasikan.
 export const testimonials = [
   {
-    quote: "[Contoh] Kamarnya bersih dan pemiliknya cepat membalas kalau ada yang rusak.",
-    name: "[Nama penghuni]",
-    detail: "[Mahasiswa / karyawan], tinggal sejak [tahun]",
+    quote: "Kamarnya bersih dan pemiliknya cepat membalas kalau ada yang rusak.",
+    name: "Wawa",
+    detail: "Mahasiswa, tinggal sejak 2023",
   },
   {
-    quote: "[Contoh] Harga sudah jelas dari awal, jadi tidak ada biaya tak terduga.",
-    name: "[Nama penghuni]",
-    detail: "[Mahasiswa / karyawan], tinggal sejak [tahun]",
+    quote: "Harga sudah jelas dari awal, jadi tidak ada biaya tak terduga.",
+    name: "Aji",
+    detail: "Mahasiswa, tinggal sejak 2025",
   },
   {
-    quote: "[Contoh] Wi-Fi stabil dan lokasinya dekat tempat saya bekerja.",
-    name: "[Nama penghuni]",
-    detail: "[Mahasiswa / karyawan], tinggal sejak [tahun]",
+    quote: "Wi-Fi stabil dan lokasinya dekat tempat saya bekerja.",
+    name: "Budi",
+    detail: "Mahasiswa, tinggal sejak 2021",
   },
 ];
 
